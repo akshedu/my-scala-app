@@ -1,0 +1,4 @@
+.DS_store
+derby.log
+metastore_db/
+target/
